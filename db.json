@@ -82,5 +82,17 @@
       "tempo_entrega": "30 a 50 min",
       "url_img": "https://i.ibb.co/qj3LvQ1/restaurante.jpg"
     }
+
+
+ {
+      "id": 6,
+      "nome": "Gil Salgados",
+      "nota": "5.0",
+      "categoria": "Restaurante",
+      "distancia": "0.5Km",
+      "valor_frete": "Gratis",
+      "tempo_entrega": "30 a 50 min",
+      "url_img": "https://static-images.ifood.com.br/image/upload/t_high/logosgde/202002171951_ec594147-206a-4204-b6fd-183f0af99b5f.png"
+    }
   ]
 }
